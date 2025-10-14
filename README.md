@@ -5,3 +5,8 @@
 | A |   |   |   |
 | B |   |   |   |
 | C |   |   |   |
+
+**Legenda**
+
+- ❌ Primeiro jogador 
+- ⭕ Segundo jogador

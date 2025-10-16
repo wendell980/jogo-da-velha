@@ -8,5 +8,5 @@
 
 **Legenda**
 
-- ❌ Primeiro jogador 
-- ⭕ Segundo jogador
+- ❌ Cleiton
+- ⭕ Julimar

@@ -6,7 +6,11 @@
 | B | ⭕  | ⭕  | ❌ |
 | C | ❌  | ⭕  | ⭕  |
 
-**Legenda**
+**Jogadores**
 
 - ❌ Cleiton
 - ⭕ Julimar
+
+## Vencedor ##
+
+- ❌ Cleiton

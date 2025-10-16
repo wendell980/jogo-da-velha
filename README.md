@@ -11,6 +11,7 @@
 - ❌ Cleiton
 - ⭕ Julimar
 
-## Vencedor ##
+## Placar ##
 
-- ❌ Cleiton
+- ❌ Cleiton 1
+- ⭕ Julimar 0
